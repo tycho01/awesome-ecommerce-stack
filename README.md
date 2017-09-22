@@ -77,6 +77,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [IconoSquare](https://pro.iconosquare.com/)
 * [Link Big](http://www.link-big.com/)
 * [Buffer](https://buffer.com/)
+* [InstaDub](https://rootjazz.com/instadub/)
 
 ## Facebook
 
@@ -221,5 +222,20 @@ If you would like to contribute to this growing list, please submit a pull reque
 ## Referrals
 
 * [ReferralCandy](https://www.referralcandy.com/)
-- [Channable](https://www.channable.com/)
+* [Channable](https://www.channable.com/)
+
+## Follow-up automation
+* [MailChimp](https://mailchimp.com/)
+* [IFTT](https://ifttt.com/)
+* [Zapier](https://zapier.com/)
+
+## Relevant supplier policies:
+- pricing
+- minimum order quantity
+- refunds
+- returns
+- guarantees
+- goods damaged during shipping
+- back orders
+- net 30 (money due 30 days after)
 
