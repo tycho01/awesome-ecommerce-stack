@@ -4,19 +4,6 @@ Popular marketing tools and add-ons used by 10,000+ of the top e-commerce stores
 
 If you would like to contribute to this growing list, please submit a pull request. To be accepted, please ensure that your URL is prefixed with `https://` in addition to having the `/` set so that the provider knows where the traffic is coming from. 
 
-## Social Media
-
-* [Hootsweet](https://hootsuite.com/)
-* [Tweetdeck](https://tweetdeck.com/)
-* [Buffer](https://buffer.com/)
-* [Bit.ly](https://bit.ly/)
-* [SproutSocial](http://sproutsocial.com/)
-* [Agorapulse](http://www.agorapulse.com/)
-* [Sprinklr](http://www.agorapulse.com/)
-* [Dlvr.it](https://dlvr.it/)
-* [Mention](https://mention.com/)
-* [Cyfe](http://www.cyfe.com/)
-
 ## Email Marketing
 
 * [SendGrid](https://sendgrid.com/)
@@ -71,7 +58,19 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Chargify](https://www.chargify.com/)
 * [Chargebee](https://www.chargebee.com/)
 
-## Instagram
+## Social Media
+
+* [Hootsweet](https://hootsuite.com/)
+* [Buffer](https://buffer.com/)
+* [Bit.ly](https://bit.ly/)
+* [SproutSocial](http://sproutsocial.com/)
+* [Agorapulse](http://www.agorapulse.com/)
+* [Sprinklr](http://www.agorapulse.com/)
+* [Dlvr.it](https://dlvr.it/)
+* [Mention](https://mention.com/)
+* [Cyfe](http://www.cyfe.com/)
+
+### Instagram
 
 * [Liketoknow.it](https://liketoknow.it/)
 * [IconoSquare](https://pro.iconosquare.com/)
@@ -79,7 +78,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Buffer](https://buffer.com/)
 * [InstaDub](https://rootjazz.com/instadub/)
 
-## Facebook
+### Facebook
 
 * [Qwaya](http://www.qwaya.com/)
 * [Shoutlet](http://www.spredfast.com/)
@@ -87,19 +86,20 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Crowdfire](https://crowdfireapp.com/)
 * [Buffer](https://buffer.com/)
 
-## Pinterest
+### Pinterest
 
 * [Tailwind](https://www.tailwindapp.com/)
 * [Olapic](https://www.olapic.com/)
 * [Curalate](http://www.curalate.com/)
 
-## Twitter
+### Twitter
 
 * [Ritetag](https://ritetag.com/)
 * [Tagboard](https://tagboard.com/)
 * [Trendsmap](https://www.trendsmap.com/)
 * [Crowdfire](https://crowdfireapp.com/)
 * [Buffer](https://buffer.com/)
+* [Tweetdeck](https://tweetdeck.com/)
 
 ## User Reviews
 
