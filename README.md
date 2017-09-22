@@ -229,6 +229,10 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [IFTT](https://ifttt.com/)
 * [Zapier](https://zapier.com/)
 
+## Trustmarks
+* [EMOTA](https://www.emota.eu/european-trustmark-) (list of European trustmarks)
+* [eConsultancy](https://econsultancy.com/blog/7941-which-e-commerce-trustmarks-are-most-effective) (comparison)
+
 ## Relevant supplier policies:
 - pricing
 - minimum order quantity
