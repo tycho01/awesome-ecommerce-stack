@@ -224,8 +224,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [ReferralCandy](https://www.referralcandy.com/)
 * [Channable](https://www.channable.com/)
 
-## Follow-up automation
-* [MailChimp](https://mailchimp.com/)
+## Automation
 * [IFTT](https://ifttt.com/)
 * [Zapier](https://zapier.com/)
 
