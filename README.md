@@ -134,7 +134,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Full Story](https://www.fullstory.com/)
 * [Google URL Builder](https://ga-dev-tools.appspot.com/campaign-url-builder/ref=ncikparsons.io)
 
-## E-commerce Platforms
+## [E-commerce Platforms](https://www.ecommwar.com/)
 
 * [Shopify](https://www.shopify.com/)
 * [BigCommerce](https://www.bigcommerce.com/)
@@ -190,6 +190,8 @@ If you would like to contribute to this growing list, please submit a pull reque
 
 ## Fulfillment
 
+* [Pakket Partner](http://www.pakketpartner.nl/) (Netherlands)
+* [DHL](http://www.dhl.com/)
 * [ShipStation](https://app.shipstation.com/)
 * [Shipping Easy](https://shippingeasy.com/)
 * [Shippo](https://goshippo.com/)
