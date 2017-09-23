@@ -2,7 +2,7 @@
 
 Popular marketing tools and add-ons used by 10,000+ of the top e-commerce stores. 💰
 
-If you would like to contribute to this growing list, please submit a pull request. To be accepted, please ensure that your URL is prefixed with `https://` in addition to having the `/` set so that the provider knows where the traffic is coming from. 
+If you would like to contribute to this growing list, please submit a pull request.
 
 ## Email Marketing
 
