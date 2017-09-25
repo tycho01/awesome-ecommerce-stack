@@ -191,7 +191,6 @@ If you would like to contribute to this growing list, please submit a pull reque
 
 ## Fulfillment
 
-* [Pakket Partner](http://www.pakketpartner.nl/) (Netherlands)
 * [DHL](http://www.dhl.com/)
 * [ShipStation](https://app.shipstation.com/)
 * [Shipping Easy](https://shippingeasy.com/)
@@ -199,6 +198,14 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [ShipWorks](https://www.shipworks.com/)
 * [Shipwire](https://www.shipwire.com/)
 * [ShipLark](https://www.shiplark.com/)
+
+Netherlands:
+* [Paazl](http://paazl.com/)
+* [Pakket Partner](http://www.pakketpartner.nl/)
+* [PostNL](https://postnl.nl/)
+
+Belgium:
+* [BPost](https://www.bpost.be/)
 
 ## Checkout Optimization
 
