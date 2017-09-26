@@ -107,7 +107,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Yotpo](https://www.yotpo.com/)
 * [Google My Business](https://www.google.com/business/)
 * [eRated](https://www.erated.co/)
-* [TurnTo)(https://www.turntonetworks.com/)
+* [TurnTo](https://www.turntonetworks.com/)
 
 ## Competitive & User Research
 
@@ -169,6 +169,7 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Comodo](https://www.comodo.com/)
 * [Cloudflare](https://cloudflare.com/)
 * [Google Mobile Friendly Test](https://www.google.com/webmasters/tools/mobile-friendly/)
+* [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 
 ## SEO
 
@@ -178,7 +179,6 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [SEO Site Cleanup](https://seositecheckup.com/)
 * [Seomator](https://seomator.com/)
 * [Google Keyword Planner](https://adwords.google.com/KeywordPlanner)
-* [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)
 
 ## Design
 
