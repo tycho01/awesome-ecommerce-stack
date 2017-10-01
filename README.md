@@ -199,6 +199,9 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Shipwire](https://www.shipwire.com/)
 * [ShipLark](https://www.shiplark.com/)
 
+China:
+* [shipping calculator](https://ilogistics.aliexpress.com/recommendation_engine_public.htm)
+
 Netherlands:
 * [Paazl](http://paazl.com/)
 * [Pakket Partner](http://www.pakketpartner.nl/)
