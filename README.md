@@ -244,6 +244,9 @@ Belgium:
 
 ## Relevant supplier policies:
 - pricing
+- no promotional material or invoices
+- warehouse location
+- processing time
 - minimum order quantity
 - refunds
 - returns
@@ -251,4 +254,3 @@ Belgium:
 - goods damaged during shipping
 - back orders
 - net 30 (money due 30 days after)
-
