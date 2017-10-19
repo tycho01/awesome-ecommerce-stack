@@ -39,7 +39,10 @@ If you would like to contribute to this growing list, please submit a pull reque
 * [Google AdWords](https://adwords.google.com/)
 * [Facebook Ads](https://www.facebook.com/business/)
 * [Adroll](https://www.adroll.com/)
-* [Instagram Ads](https://business.instagram.com/advertising)
+* [Instagram Ads](https://business.instagram.com/advertising
+
+Netherlands:
+* [Marktplaats](http://www.marktplaatszakelijk.nl/admarkt/)
 
 ## Product Visibility
 
