@@ -209,6 +209,7 @@ Netherlands:
 * [Paazl](http://paazl.com/)
 * [Pakket Partner](http://www.pakketpartner.nl/)
 * [PostNL](https://postnl.nl/)
+* [Keen Delivery](https://keendelivery.com/)
 
 Belgium:
 * [BPost](https://www.bpost.be/)
